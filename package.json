@@ -1,0 +1,22 @@
+{
+    "name" : "bootstrap_practice",
+    "version": "1.0.0",
+    "description": "Bootstrap Practice Repository",
+    "scripts": {
+        "start": "node scripts/webServer.js" //execution 
+    },
+    "author": "Satish Kumar Kuppili",
+    "license": "Infosys",
+    "dependencies": {
+    
+    },
+    "devDependencies": {
+        "express": "4.15",
+        "jsdom": "9.4.2",
+        "localtunnel": "1.8.1",
+        "npm-run-all": "3.0.0",
+        "nsp": "2.6.1",
+        "open" :"0.0.5"
+    }
+
+}
